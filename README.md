@@ -16,7 +16,13 @@ git Multi-Version Concurrency release,use gitflow,on surcetree.source tree gitfl
         ![image](https://github.com/mywoogle/sourcetree_gitflow_Multi-Version-Concurrency-release/blob/master/image/4.png)
         ![image](https://github.com/mywoogle/sourcetree_gitflow_Multi-Version-Concurrency-release/blob/master/image/5.png)
     
-5.  ff
+5.  add a featue base on curent develop,format:_version_fearurename,example:_qq_feature1
+        ![image](https://github.com/mywoogle/sourcetree_gitflow_Multi-Version-Concurrency-release/blob/master/image/6.png)
+        ![image](https://github.com/mywoogle/sourcetree_gitflow_Multi-Version-Concurrency-release/blob/master/image/7.png)
+
+6.  5.  add a hotfix base on curent master,format:_version_hotfix1,example:_qq_hotfix1
+        ![image](https://github.com/mywoogle/sourcetree_gitflow_Multi-Version-Concurrency-release/blob/master/image/8.png)
+        ![image](https://github.com/mywoogle/sourcetree_gitflow_Multi-Version-Concurrency-release/blob/master/image/9.png)
 
 # License
 Feel free to use it.
