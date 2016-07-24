@@ -7,7 +7,13 @@
 # hotfix/_qq_hotfix1
 # create by woolge,Email:917595913@qq.com
 
-REPO_PATH=$1
+if [[ $1='' ]]; then
+	REPO_PATH=""
+else
+	REPO_PATH="${1}/"
+fi
+
+echo "$REPO_PATH"
 
 #the function get_curent_branch
 get_curent_branch(){
@@ -45,7 +51,7 @@ select_gitflow_branch(){
 
 # the fucntion of replace_gitflow_branch
 replace_gitflow_branch(){
-	config="${REPO_PATH}/.git/config"
+	config="${REPO_PATH}.git/config"
 	select_gitflow_branch
 	sed -i "10c master = $gitflow_branch_master" $config
 	sed -i "11c develop = $gitflow_branch_develop" $config
@@ -75,9 +81,9 @@ monitor_current_branch(){
 	done
 }
 
-echo "---we will open sourcetree_gitflow_Multi-Version-Concurrency---"
+echo -e "---we will open sourcetree_gitflow_Multi-Version-Concurrency---\n"
 
 eval "monitor_current_branch" &
 
-echo "---it has opened.you can close this window and use sourcetree_gitflow_Multi-Version-Concurrency---"
+echo -e "---it has opened.you can close this window and use sourcetree_gitflow_Multi-Version-Concurrency---\n"
 
