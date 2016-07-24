@@ -10,7 +10,7 @@ The script will change the current master/develop of sourcetree,according to cur
 2.  cd /path/to/repository   and run "bash /C/Users/woogle/Desktop/replace_gitflow_branch.sh"
         ![image](https://github.com/mywoogle/sourcetree_gitflow_Multi-Version-Concurrency-release/blob/master/image/101.png)
         
-        OR
+OR
 
 * create a custom action as image
         ![image](https://github.com/mywoogle/sourcetree_gitflow_Multi-Version-Concurrency-release/blob/master/image/201.png)
