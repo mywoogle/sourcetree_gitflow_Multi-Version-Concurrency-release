@@ -15,6 +15,7 @@ Create dourcetree's custom action
 ![image](https://github.com/mywoogle/sourcetree_gitflow_Multi-Version-Concurrency-release/blob/master/image/201.png)
 
 Run dourcetree's custom action
+action>>custom action>>Multi-Version Concurrency
 ![image](https://github.com/mywoogle/sourcetree_gitflow_Multi-Version-Concurrency-release/blob/master/image/202.png)
 
 3.  add Multiple versions of master in sourcetree,the format as master_version
