@@ -12,10 +12,10 @@ The script will change the current master/develop of sourcetree,according to cur
         
 OR
 
-* create a custom action as image
+create a custom action as image
         ![image](https://github.com/mywoogle/sourcetree_gitflow_Multi-Version-Concurrency-release/blob/master/image/201.png)
 
-*run the custom action
+run the custom action
         ![image](https://github.com/mywoogle/sourcetree_gitflow_Multi-Version-Concurrency-release/blob/master/image/202.png)
         
         
