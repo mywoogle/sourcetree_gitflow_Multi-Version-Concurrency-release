@@ -10,10 +10,12 @@ The script will change the current master/develop of sourcetree,according to cur
 2.  cd /path/to/repository   and run "bash /C/Users/woogle/Desktop/replace_gitflow_branch.sh"
         ![image](https://github.com/mywoogle/sourcetree_gitflow_Multi-Version-Concurrency-release/blob/master/image/101.png)
 
-# OR use sourcetree's custom aciton #
+### OR use sourcetree's custom aciton ###
+Create dourcetree's custom action
+![image](https://github.com/mywoogle/sourcetree_gitflow_Multi-Version-Concurrency-release/blob/master/image/201.png)
 
 Run dourcetree's custom action
-
+![image](https://github.com/mywoogle/sourcetree_gitflow_Multi-Version-Concurrency-release/blob/master/image/202.png)
 
 3.  add Multiple versions of master in sourcetree,the format as master_version
     example,master_qq,master_sina
