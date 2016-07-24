@@ -13,11 +13,10 @@ The script will change the current master/develop of sourcetree,according to cur
         OR
         
         create a custom action as image
-                ![image](https://github.com/mywoogle/sourcetree_gitflow_Multi-Version-Concurrency-release/blob/master/image/201.png)
+        ![image](https://github.com/mywoogle/sourcetree_gitflow_Multi-Version-Concurrency-release/blob/master/image/201.png)
         
         run the custom action
-                ![image](https://github.com/mywoogle/sourcetree_gitflow_Multi-Version-Concurrency-release/blob/master/image/202.png)
-                
+        ![image](https://github.com/mywoogle/sourcetree_gitflow_Multi-Version-Concurrency-release/blob/master/image/202.png)
         
 3.  add Multiple versions of master in sourcetree,the format as master_version
     example,master_qq,master_sina
