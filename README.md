@@ -11,8 +11,8 @@ The script will change the current master/develop of sourcetree,according to cur
         ![image](https://github.com/mywoogle/sourcetree_gitflow_Multi-Version-Concurrency-release/blob/master/image/101.png)
         
 > OR use sourcetree's custom aciton
-1. create sourcetree's custom action
-2. run dourcetree's custom action
+Create sourcetree's custom action
+Run dourcetree's custom action
         
 
 3.  add Multiple versions of master in sourcetree,the format as master_version
